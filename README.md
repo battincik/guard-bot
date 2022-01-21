@@ -1,4 +1,6 @@
 # guard-bot
+Geliştirilmekte olan açık kaynaklı sunucu koruma bot yöneticisi ve botları.
+
 
 
 ## Gerekli Dosyalar
