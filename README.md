@@ -11,6 +11,9 @@ module.exports = {
         id:"264418879512641536",
         tag:"Battincik#0001"
     },
+    webhook:{
+        url:""
+    },
     token:"",
 }
 ```
