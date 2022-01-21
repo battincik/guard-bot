@@ -3,8 +3,7 @@
 
 ## Gerekli Dosyalar
 ### config/auth.js
-```
-javascript
+```javascript
 module.exports = {
     botOwner:{
         id:"264418879512641536",
@@ -14,8 +13,7 @@ module.exports = {
 }
 ```
 ### config/tokens.js
-```
-javascript
+```javascript
 module.exports = [
     {id:0,name:"Guard I",token:""},
     {id:1,name:"Guard II",token:""},
